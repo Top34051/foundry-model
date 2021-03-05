@@ -35,4 +35,6 @@ Temporary Items
 
 data/*
 
+.gitignore
+
 .*
